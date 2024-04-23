@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713826241 source:c:\users\jan carlos peguero\desktop\proyectos en c\pichardo\tarea de memoria dinámica\tf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
